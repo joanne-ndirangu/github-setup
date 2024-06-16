@@ -1,1 +1,3 @@
 # github-setup
+## Additional Information
+This repository serves as a guide for setting up and cloning a GitHub repository.
