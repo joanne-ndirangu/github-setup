@@ -8,3 +8,5 @@ This is an edit made on conflict-branch.
 # My Project
 
 This is the initial content of the README file.
+
+Updated content after making local changes.
